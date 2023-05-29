@@ -1,11 +1,11 @@
 <a href="https://www.youtube.com"><img src="https://github.com/XNeyMo/XNeyMo/blob/main/XNeyMo%20Logo.png" width="50" height="50"></a>
 
 # Hi There!, my name is Neyan Montes 👋
-### I'm a Web Developer and specialized in Front-End
+### I am a Web and Software Developer specialized in Front-End
 
 <img src="https://github.com/XNeyMo/XNeyMo/blob/main/XNeyMo%20Banner.png">
 
-## About Me and Skills
+## About Me and My Skills
 
 I have always been interested in knowing and understanding how the virtual world works, from a simple program to the most complex, that's why I am studying systems and computer engineering as well as mechatronic engineering.
 
