@@ -39,3 +39,9 @@ You can contact me through the following shields that you will find, which will 
 <a href=""><img src="https://img.shields.io/badge/Discord-7188d8?logo=discord&logoColor=DCD7C9&labelColor=2C3639&style=for-the-badge"></a> <br>
 
 ## My Projects
+
+## My Stats
+
+![](https://github-readme-stats.vercel.app/api?username=xneymo&show_icons=true&include_all_commits=true&hide=contribs,issues&bg_color=2C3639&title_color=A27B5C&border_color=A27B5C&text_color=DCD7C9&border_radius=20px&icon_color=A27B5C)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XNeyMo&bg_color=2C3639&title_color=A27B5C&border_color=A27B5C&text_color=DCD7C9&border_radius=20px&include_all_commits=true&count_private=true&layout=compact)
