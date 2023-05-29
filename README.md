@@ -1,9 +1,9 @@
-<a href="https://www.youtube.com"><img src="https://github.com/XNeyMo/XNeyMo/blob/main/XNeyMo%20Logo.png" width="50" height="50"></a>
+<a href="https://www.youtube.com"><img src="https://github.com/XNeyMo/XNeyMo/blob/main/imgs/XNeyMo%20Logo.png" width="50" height="50"></a>
 
 # Hi There!, my name is Neyan Montes 👋
 ### I am a Web and Software Developer specialized in Front-End
 
-<img src="https://github.com/XNeyMo/XNeyMo/blob/main/XNeyMo%20Banner.png">
+<img src="https://github.com/XNeyMo/XNeyMo/blob/main/imgs/XNeyMo%20Banner.png">
 
 ## About Me and My Skills
 
