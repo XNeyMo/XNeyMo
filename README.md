@@ -20,7 +20,7 @@ However, my current focus is on web development, both web pages and web applicat
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML%205-ED672A?style=for-the-badge&logo=html5&logoColor=DCD7C9&labelColor=2C3639"></a> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS%203-2965F1?logo=css3&logoColor=DCD7C9&labelColor=2C3639&style=for-the-badge"></a> <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-eec02c?logo=javascript&logoColor=DCD7C9&labelColor=2C3639&style=for-the-badge"></a> <br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=DCD7C9&labelColor=2C3639&style=for-the-badge"></a> <br>
 
 I have solid foundations in the complete development of projects, both the Back-End and the Front-End, however, my greatest strength is the latter; I also have experience in handling the following frameworks, libraries and technologies:
 
