@@ -26,6 +26,7 @@ I have solid foundations in the complete development of projects, both the Back-
 
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/BOOTSTRAP-5b2f7c?logo=bootstrap&logoColor=DCD7C9&labelColor=2C3639&style=for-the-badge"></a> <br>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-1fd6fe?logo=react&logoColor=DCD7C9&labelColor=2C3639&style=for-the-badge"></a> <br>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-f84c28?logo=git&logoColor=DCD7C9&labelColor=2C3639&style=for-the-badge"></a> <br>
 
 I love aesthetics too much and I want to be able to provide the best user experience with my UX/UI design knowledge, where you can navigate the webpage or app in a completely easy way. I look for opportunities to expand my knowledge and keep up with the latest technological trends. I am passionate about programming and I am committed to offering innovative and user-oriented solutions.
 
