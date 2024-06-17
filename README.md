@@ -120,3 +120,5 @@ export default FrontendDeveloper;
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XNeyMo&layout=compact&theme=dark&hide_border=true)
