@@ -1,17 +1,8 @@
-<p align="center">
-  <img src="https://github.com/XNeyMo/XNeyMo/blob/main/assets/banner.png">
-</p>
-
----
-
-<br>
-<br>
-
 ```js
 import React from 'react';
 import Knowledge from '../components/Knowledge'
 
-const FrontendDeveloper = () => {
+const SoftwareDeveloper = () => {
   const userData = {
     name: "Neyan Montes",
     username: "XNeyMo",
@@ -42,10 +33,9 @@ const FrontendDeveloper = () => {
   );
 }
 
-export default FrontendDeveloper;
+export default SoftwareDeveloper;
 ```
 
-<br>
 <br>
 
 <details>
